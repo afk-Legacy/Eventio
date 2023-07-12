@@ -4,6 +4,8 @@ Welcome to the Event Management System for universities! This system, built usin
 
 ## Features
 
+✅ **Authentication**: Secure user authentication and authorization system for universities, trainers, and attendees.
+
 ✅ **Event Organization**: Universities can easily create, manage, and track various events.
 
 ✅ **Trainer Hiring**: Universities can hire experienced trainers to conduct events and share their expertise.
@@ -18,6 +20,9 @@ Welcome to the Event Management System for universities! This system, built usin
 
 - Laravel - A powerful PHP framework for web application development.
 - Tailwind CSS - A utility-first CSS framework for building modern and responsive interfaces.
+- Laravel Breeze - A lightweight authentication scaffold for Laravel applications, providing pre-built authentication features.
+- SQL - A standard language for interacting with relational databases, used for managing data in the Event Management System.
+- XAMPP - A popular cross-platform web server solution that includes Apache, MySQL, PHP, and other tools, used for local development and testing of the Event Management System.
 
 ## Installation
 
